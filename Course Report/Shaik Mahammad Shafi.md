@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>SQL-POWERBI</h2>
 </div>
 
 # Course Report
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Theory     | [Project Link] [https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Shafi]                        |
-| Final Project: Data Analysis     | [Project Link]   [https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Shafi]                      |
+| Mini Projects: Theory     | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Shafi)                     |
+| Final Project: Data Analysis     | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Shafi)                     |
