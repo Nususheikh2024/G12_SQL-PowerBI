@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:  Top Youtube Music Artist    |[Project Link] https://github.com/Nususheikh2024/G12_SQL-PowerBI/tree/main/Mini%20Projects/Nusrat                         |
-| Final Project:   Top Youtube Music Artist     | [Project Link] https://github.com/Nususheikh2024/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Nusrat                        |
+| Mini Projects:  Top Youtube Music Artist    |[Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Nusrat)                        |
+| Final Project:   Top Youtube Music Artist     | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Nusrat)                     |
